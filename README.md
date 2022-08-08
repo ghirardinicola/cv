@@ -1,1 +1,1 @@
-# Nicola Ghirardi's Curiiculum Vitae
+# Nicola Ghirardi's Curriculum Vitae
