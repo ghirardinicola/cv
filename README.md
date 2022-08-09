@@ -1,6 +1,6 @@
 Contacts:
 
-# Data (science) enginnering
+# Data (science) engineering
 
 I am passionate about data driven innovation.  
 Working as data (science) engineering leader, my scope are to build succesfull people, teams and data driven services.  
