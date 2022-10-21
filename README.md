@@ -36,21 +36,21 @@ We also gather data from many sources to create new reporting, advanced analytic
 
 ## Teacher @ Golinelli Foundation
 
-## Adjunt Professor @ Università di Parma
+## Adjunt Professor @ Università degli Studi di Parma. 
 
 ## Coderdojo mentor
 
 # Education
 
-EducationEducation
+## Master of Engineering (M.Eng.)
+Information Technology. 
+Università degli Studi di Parma. 
+2006 - 2010. 
+Grade: 99/110. 
 
-Master of Engineering (M.Eng.), Information Technology
-Università degli Studi di Parma
-2006 - 2010
-Grade: 99/110
-
-Bachelor of Engineering (B.Eng.), Telecommunications Engineering
-Università degli Studi di Parma
-Cardiff University, UK (Erasmus)
-2001 - 2005
-Grade: 104/110
+## Bachelor of Engineering (B.Eng.)
+Telecommunications Engineering. 
+Università degli Studi di Parma. 
+Cardiff University, UK (Erasmus). 
+2001 - 2005.  
+Grade: 104/110. 
