@@ -1,21 +1,20 @@
-Contacts:
 
-# Data (science) engineering
+# Data analytics and engineering
 
 I am passionate about data driven innovation.  
-Working as data (science) engineering leader, my scope are to build succesfull people, teams and data driven services.  
-Interacting daily with data scientists and data engineers to make data product development efficient using best practices and innovative technologies.  
+Working as data analytics and engineering leader, my scope is to build succesfull teams and data driven services. 
+Interacting daily with data scientists, analyst, engineers and partictioners to make data product development efficient using best practices and innovative technologies.  
 Expert in data related patterns and architectures helping the development of high quality solutions.  
 Working in the mlops company strategy, partecipating in the hiring process.  
 Personally interested in data journalism, cinema and traveling.  
 
+# Work Experience
 
-## Data enginner practice leader @ Leitha (Gen 2022 - Now)
+## Data enginnering practice leader @ Leitha (Gen 2022 - Now)
 Setup of kubernets based data science platform  
-Setup of cloud based data warehouse   
+Setup of cloud based data lakehouse   
 Leading the data and mlops in a 60+ data company  
 Advocacy for enginering and development process best practices  
-
 
 ## Data engineer & team leder @ Leitha (2017 - 2021)
 Data products for in the insurance pricing optimization, environmental risks, antifraud.  
@@ -28,16 +27,30 @@ In the innovation department we create new business solutions, continuosly testi
 The group i work with focus on service design, fast prototiping and measurement.  
 We also gather data from many sources to create new reporting, advanced analytics and smart applications using data science.  
 
-
 ## Data & Software Architect @ R&D CINECA (2015)
 
 ## Software engineer @ CINECA (2011-2014)
 
 
-# Teaching
+# Teaching experience
 
 ## Teacher @ Golinelli Foundation
 
 ## Adjunt Professor @ Università di Parma
 
-# Coderdojo mentor
+## Coderdojo mentor
+
+# Education
+
+EducationEducation
+
+Master of Engineering (M.Eng.), Information Technology
+Università degli Studi di Parma
+2006 - 2010
+Grade: 99/110
+
+Bachelor of Engineering (B.Eng.), Telecommunications Engineering
+Università degli Studi di Parma
+Cardiff University, UK (Erasmus)
+2001 - 2005
+Grade: 104/110
