@@ -1,7 +1,5 @@
 
-# Ghirardi Nicola
-
-## Data analytics and engineering
+# Data analytics and engineering
 
 I am passionate about data driven innovation.  
 Working as data analytics and engineering leader, my scope is to build succesfull teams and data driven services. 
