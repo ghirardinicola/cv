@@ -2,17 +2,21 @@
 # Data driven services
 
 I am passionate about data driven innovation.  
-Working as data analytics and engineering leader, my scope is to build successful teams and data driven services. 
-Interacting daily with data scientists, analyst, engineers and partictioners to make data product development efficient using best practices and innovative technologies.  
-Expert in data related patterns and architectures helping the development of high quality solutions.  
-Working in the mlops company strategy, partecipating in the hiring process.  
+Working as data and ml leader, my scope is to build successful teams and data driven services.
+Interacting daily with data scientists, analyst, engineers and business owners to make data product development efficient using best practices and innovative technologies.  
+Working in the mlops company strategy and in the agile practices.
 
 # Work Experience
 
-## Data enginnering practice leader @ Leitha (Gen 2022 - Now)
+## Data & Ml practice leader @ Leitha (Apr 2023 - Now)
+Team development of new data & ml services  
+Setup of data and ml workflows, experiments, delivery, evaluations and agile iterations   
+Experiences in NLP and document processing, spatial data science, big data
+
+## Data enginnering practice leader @ Leitha (Gen 2022 - Mar 2023)
 Setup of kubernets based data science platform  
 Setup of cloud based data lakehouse   
-Leading the data and mlops in a 60+ data company  
+Leading the data and ml ops in a 60+ data company  
 Advocacy for enginering and development process best practices  
 
 ## Data engineer & team leder @ Leitha (2017 - 2021)
