@@ -2,7 +2,7 @@
 # Data driven services
 
 I am passionate about data driven innovation.  
-Working as data analytics and engineering leader, my scope is to build succesfull teams and data driven services. 
+Working as data analytics and engineering leader, my scope is to build successful teams and data driven services. 
 Interacting daily with data scientists, analyst, engineers and partictioners to make data product development efficient using best practices and innovative technologies.  
 Expert in data related patterns and architectures helping the development of high quality solutions.  
 Working in the mlops company strategy, partecipating in the hiring process.  
